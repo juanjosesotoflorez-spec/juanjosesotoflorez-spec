@@ -35,8 +35,6 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo **Frontend, Back
 
 ### 🔧 Herramientas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apachefriends&logoColor=white)
 
 ---
