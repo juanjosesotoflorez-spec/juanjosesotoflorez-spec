@@ -86,11 +86,11 @@ Estoy construyendo mi portafolio poco a poco y buscando seguir creciendo como de
 📍 Medellín, Colombia
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juanjosesotoflorez&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosesotoflorez&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juanjosesotoflorez-spec&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosesotoflorez-spec&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
 </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosesotoflorez&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosesotoflorez-spec&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juanjosesotoflorez-spec&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/> </p>
 
 
 ⭐ Gracias por visitar mi perfil.
