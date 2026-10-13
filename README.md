@@ -90,7 +90,6 @@ Estoy construyendo mi portafolio poco a poco y buscando seguir creciendo como de
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosesotoflorez-spec&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
 </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosesotoflorez-spec&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juanjosesotoflorez-spec&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/> </p>
 
 
 ⭐ Gracias por visitar mi perfil.
