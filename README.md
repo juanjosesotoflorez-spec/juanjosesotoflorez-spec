@@ -1,95 +1,147 @@
-# 👋 ¡Hola! Soy Juan José Soto Flórez
+ 
+<h1 align="center">¡Hola! 👋 Soy Juan José Soto Flórez</h1>
 
-💻 **Tecnólogo en Análisis y Desarrollo de Software en formación**  
-🎓 **Técnico en Sistemas — SENA**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=900&color=20B66A&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software+en+formaci%C3%B3n;Tecn%C3%B3logo+ADSO+%7C+SENA;Desarrollo+Web+%7C+Frontend+%26+Backend;Aprendiendo%2C+creando+y+mejorando" alt="Texto animado de presentación">
+</p>
 
-Soy estudiante de desarrollo de software interesado en la creación de aplicaciones web y soluciones tecnológicas.
+<p align="center">
+  💻 Tecnólogo en Análisis y Desarrollo de Software en formación
+  <br>
+  🎓 Técnico en Sistemas — SENA
+  <br>
+  📍 Medellín, Colombia
+</p>
 
-Actualmente estoy fortaleciendo mis conocimientos en desarrollo **Frontend, Backend y bases de datos**, mientras desarrollo proyectos académicos y personales para mejorar mis habilidades.
+<p align="center">
+  <a href="https://github.com/juanjosesotoflorez-spec">
+    <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-181717?style=for-the-badge&logo=github" alt="Mi GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/En%20constante-aprendizaje-20b66a?style=for-the-badge" alt="En constante aprendizaje">
+</p>
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 Sobre mí
+
+Soy estudiante de desarrollo de software interesado en crear aplicaciones web, herramientas digitales y soluciones tecnológicas.
+
+Actualmente estoy fortaleciendo mis habilidades en desarrollo **Frontend, Backend y bases de datos**, mediante proyectos académicos y personales que me permiten llevar la teoría a la práctica.
+
+Me gusta aprender nuevas tecnologías, resolver problemas mediante la programación y mejorar continuamente la calidad de mis desarrollos.
 
 - 🎓 Tecnólogo en Análisis y Desarrollo de Software en formación.
 - 💻 Técnico en Sistemas.
-- 🌐 Interesado en desarrollo web y software.
-- 🗄️ Aprendiendo y trabajando con bases de datos.
-- 🔧 Me gusta crear proyectos y aprender nuevas tecnologías.
-- 📚 En constante aprendizaje y mejora de mis habilidades.
+- 🌐 Interés en desarrollo web Full Stack.
+- 🗄️ Aprendizaje práctico de bases de datos y SQL.
+- 🚀 Construcción de mi portafolio profesional.
+- 📚 Comprometido con el aprendizaje continuo.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🌐 Desarrollo web
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="Tecnologías de desarrollo" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🗄️ Bases de datos
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Herramientas
-
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apachefriends&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=apachefriends&logoColor=white" alt="XAMPP">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
 
 ---
 
-## 📌 Proyecto destacado
+## 🚀 Mis proyectos
+
+Aquí encontrarás proyectos académicos y personales que estoy desarrollando para practicar, aprender y fortalecer mis habilidades de programación.
+
+### 🗂️ TaskFlow — Gestor de tareas
+
+Aplicación web para organizar actividades, administrar prioridades y consultar el progreso de las tareas.
+
+**Tecnologías:** HTML5, CSS3, JavaScript y LocalStorage.
+
+<a href="https://github.com/juanjosesotoflorez-spec/TaskFlow-Gestor-Inteligente-de-Tareas">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github" alt="Ver repositorio de TaskFlow">
+</a>
 
 ### 👕 JE&J Streetwear
 
-Tienda virtual de ropa urbana desarrollada como proyecto académico.
+Tienda virtual de ropa urbana desarrollada como proyecto académico, con una estructura web orientada a la presentación de productos y funcionalidades de una tienda en línea.
 
-**Tecnologías principales:**
+**Tecnologías:** HTML5, CSS3, JavaScript, PHP, MySQL, XAMPP y FPDF.
 
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- MySQL
-- XAMPP
-- FPDF
+<a href="https://github.com/juanjosesotoflorez-spec/JEJ-Streetwear">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github" alt="Ver JE&J Streetwear">
+</a>
 
-🔗 [Ver proyecto en GitHub](https://github.com/juanjosesotoflorez-spec/JEJ-Streetwear)
+### 🎮 Juego interactivo — COBIT, IEEE e ISO 37000
+
+Actividad interactiva creada para reforzar conceptos relacionados con estándares, gobierno y calidad del software.
+
+<a href="https://github.com/juanjosesotoflorez-spec/Juego_interactivo">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github" alt="Ver juego interactivo">
+</a>
+
+### 🧠 Juego de evaluación — COBIT, IEEE e ISO 37000
+
+Proyecto orientado a evaluar conocimientos mediante preguntas y actividades sobre los temas trabajados en formación.
+
+<a href="https://github.com/juanjosesotoflorez-spec/juego_evaluacion">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github" alt="Ver juego de evaluación">
+</a>
+
+### 🌐 Hoja de vida web
+
+Página personal desarrollada en HTML para presentar mi perfil profesional, formación y conocimientos.
+
+<a href="https://github.com/juanjosesotoflorez-spec/hoja_de_vida">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github" alt="Ver hoja de vida">
+</a>
 
 ---
 
-## 🎯 Actualmente estoy aprendiendo
+## 📚 Actualmente estoy aprendiendo
 
 - Desarrollo web Full Stack.
-- PHP y desarrollo Backend.
-- JavaScript.
-- Bases de datos y SQL.
-- Git y GitHub.
-- Buenas prácticas de desarrollo.
-- Diseño y arquitectura de aplicaciones.
+- JavaScript y programación orientada a la interacción.
+- PHP para el desarrollo Backend.
+- Diseño, consultas y administración de bases de datos MySQL.
+- Git y GitHub para el control de versiones.
+- Buenas prácticas de desarrollo de software.
+- Diseño y construcción de aplicaciones web.
 
 ---
 
-## 📊 GitHub
+## 📊 Mi actividad en GitHub
 
-💡 Este perfil reúne proyectos académicos y personales desarrollados durante mi proceso de formación en software.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juanjosesotoflorez-spec&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosesotoflorez-spec&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados">
+</p>
 
-Estoy construyendo mi portafolio poco a poco y buscando seguir creciendo como desarrollador.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosesotoflorez-spec&theme=tokyonight&hide_border=true&locale=es" alt="Actividad y racha de GitHub">
+</p>
 
 ---
 
 ## 📫 Contacto
 
-💼 **GitHub:** [@juanjosesotoflorez-spec](https://github.com/juanjosesotoflorez-spec)
+<p align="center">
+  <a href="https://github.com/juanjosesotoflorez-spec">
+    <img src="https://img.shields.io/badge/GitHub-juanjosesotoflorez--spec-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub">
+  </a>
+</p>
 
-📍 Medellín, Colombia
+📍 Medellín, Colombia  
+💼 Abierto a seguir aprendiendo, colaborar en proyectos y fortalecer mi experiencia en desarrollo de software.
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juanjosesotoflorez-spec&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosesotoflorez-spec&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=20B66A&center=true&vCenter=true&width=600&lines=Cada+proyecto+es+una+nueva+oportunidad;Aprender+%7C+Programar+%7C+Mejorar" alt="Mensaje animado de cierre">
+  <br>
+  ⭐ ¡Gracias por visitar mi perfil!
 </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosesotoflorez-spec&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
-
-
-⭐ Gracias por visitar mi perfil.
